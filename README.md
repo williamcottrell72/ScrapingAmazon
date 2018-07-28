@@ -6,12 +6,11 @@ The goal of this project is to scrape amazon in order to figure out how to maxim
 2. Process_Data_vn.ipynb
 3. code_file_name (place_codes.csv)
 4. url_data.pkl
-5. rootkey.csv
-6. luther.py
-7. diagnostic_plots.py
-8. cache
-9  ENV
-10.  This README.md
+5. luther.py
+6. diagnostic_plots.py
+7. cache
+8  ENV
+9.  This README.md
 
 The contents are as follows.
 
@@ -35,26 +34,22 @@ City codes used by the VPN.
 
 This just stores a list of urls for individual items.
 
-### V. rootkey.csv
-
-This is a key for the Amazon API.  This was used early on but ultimately abandoned since twoo many sign-ups and commitments were required to maintain accesss.
-
-### VI.  luther.py
+### V.  luther.py
 
 A few helper functions for the Process_Data files.
 
-### VII.  diagnostic_plots.py
+### VI.  diagnostic_plots.py
 
 Some useful plotting functions.
 
-### VIII. cache
+### VII. cache
 
 Where the data is stored.
 
-### IX.  ENV
+### VIII.  ENV
 
 Some environment variables are stored here occasionally.
 
-### X.  README.md
+### IX.  README.md
 
 I'm hoping this one is self-explanatory.
